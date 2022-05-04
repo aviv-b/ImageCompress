@@ -1,4 +1,4 @@
-# ImagesCompress  <img alt="GitHub" src="https://img.shields.io/github/license/aviv-b/ImagesCompress">
+# ImagesCompress  <img alt="GitHub" src="https://img.shields.io/github/license/aviv-b/ImagesCompress"><img alt="GitHub" src="https://img.shields.io/github/repo-size/aviv-b/ImagesCompress">
 This application compress folder of images.
 Great for web applications!! Allows big images to load faster. 
 
